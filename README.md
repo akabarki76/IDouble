@@ -1,4 +1,6 @@
 <div align="center">
+![Uploading IMG_2528.JPG…]()
+![IMG_2527](https://github.com/user-attachments/assets/e6ac4bb3-f9ba-47f6-9b8d-86bfc75bb0ac)
   
   ![$BTC (Bitcoin) Customizable Cryptocurrency Dashboard with Chart Candlestick Price Movement Volume Bull market bullish Trend](Images/Customizable-Cryptocurrency-Dashboard-with-Chart-Binance.png)
 
